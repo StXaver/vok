@@ -86,3 +86,5 @@ search - Поисковые методы [подробное описание](d
 branches - Филиалы контрагента [подробное описание](doc/branches/README.md)
 
 client/stat - Статистика запросов клиента [подробное описание](doc/clint/README.md)
+
+vehicle/stat, vehicle - Транспорт [подробное описание](doc/vehicle/README.md)
